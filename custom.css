@@ -1,0 +1,39 @@
+.header {
+  margin-top: 3rem;
+  text-align: center;
+}
+
+.responsive-img {
+  width: 100%;
+  max-width: 135px;
+  height: auto;
+  margin-top: 1.5rem;
+}
+
+.name-title {
+  font-size: 1.8rem;
+  margin-right: 1rem;
+  font-weight: bold;
+}
+
+.btns {
+  font-size: 1.8rem;
+  margin: .5rem;
+}
+
+.btns-on {
+  color: #3837F4;
+  font-size: 1.8rem;
+  margin: .5rem;
+}
+.btns-on:hover {
+  color: #5352FF;
+}
+
+.top-bar {
+  margin-top: .5rem;
+}
+
+.welcome {
+  margin-bottom: .5rem;
+}
